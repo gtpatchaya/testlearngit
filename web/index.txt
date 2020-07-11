@@ -9,3 +9,6 @@
 - btn 4
 - btn 5
 >>>>>>> 53f5e2a63f5bcee3ee58d5f15b55496b8b68733f
+
+
+-- optimize function bu1
